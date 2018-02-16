@@ -1,3 +1,4 @@
+
 /************************************************************************************************************************************************* 
 *
 *  Arduino Leonardo-based MIDI controller sketch made for controlling VCVrack, but can be used for anything MIDI-based
@@ -37,16 +38,19 @@ void setup()
  
 void loop()
 {  
-  // Quick explaination of what's going on here: analogRead(A0) is grabbing the value from the arduino (0 - 1023); this is then being bitshifted ( >> 3) to convert the 1024 levels from the analog input to the 128 levels that MIDI uses
+  // Quick explaination of what's going on here: analogRead(A0) is grabbing the value from the arduino (0 - 1023); this is then being
+  // bitshifted ( >> 3) to convert the 1024 levels from the analog input to the 128 levels that MIDI uses
   uint16_t analogValue = analogRead(A0);
   uint8_t newAnalogValue = analogValue >> 3;
   
   if( newAnalogValue != oldAnalogValue )
   {  
-    // Here we have the arduino sending a MIDICC packet with a CC message (0x0B), on channel 1 (0xB0), with a CC number (1), and the bitshifted value from the analog pin. Then, the current value is saved to oldAnalogValue and
+    // Here we have the arduino sending a MIDICC packet with a CC message (0x0B), on channel 1 (0xB0), with a CC number (1), and the 
+    // bitshifted value from the analog pin. Then, the current value is saved to oldAnalogValue and
     // the arduino ignores this input until a change is made.
     //
-    // My setup uses four arduinos all set to the same channel (0xB0), so I need to make sure that the CC channels are different for all four devices.
+    // My setup uses four arduinos all set to the same channel (0xB0), so I need to make sure that the CC channels are different for 
+    // all four devices.
     // adding commented out lines for the other boards.
     midiEventPacket_t midiCc = { 0x0B, 0xB0, 1, newAnalogValue };
     //midiEventPacket_t midiCc = { 0x0B, 0xB0, 13, newAnalogValue };
