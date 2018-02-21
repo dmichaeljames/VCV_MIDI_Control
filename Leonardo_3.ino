@@ -1,8 +1,8 @@
 /*******************************************************************
- 
-    This is Leonardo_3.
-    It will control LFOs 1-8.
-    
+* 
+*    This is Leonardo_3.
+*    It will control LFOs 1-8.
+*    
 \*******************************************************************/
 #include <MIDIUSB.h>
 #include <frequencyToNote.h>
