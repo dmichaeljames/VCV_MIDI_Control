@@ -3,7 +3,7 @@
 *    This is Leonardo_2.
 *    It will control VCOs (2,4,6,8), VCFs (2,4,6,8) and ADRs (VCO/VCF 2,4,6,8)
 *    
-\*****************************************************************************
+\****************************************************************************/
 #include <MIDIUSB.h>
 #include <frequencyToNote.h>
 #include <pitchToFrequency.h>
