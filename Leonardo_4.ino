@@ -3,7 +3,7 @@
 *    This is Leonardo_4.
 *    It will control VCAs 1-8
 *    
-\*******************************************************************
+\******************************************************************/
 #include <MIDIUSB.h>
 #include <frequencyToNote.h>
 #include <pitchToFrequency.h>
