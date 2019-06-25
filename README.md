@@ -1,8 +1,8 @@
-# VCV_MIDI_Control
+# VCV_MIDI_Control (VMC)
 
 This project is for creating an Arduino-based MIDI controller for use with VCVrack.
 
-This specific use case makes use of the following hardware:
+VMC makes use of the following hardware:
 
 * Arduino Leonardo R3
 * Up to 12 CD74HC4067 multiplexers
