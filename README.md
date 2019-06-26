@@ -1,11 +1,15 @@
-# VCV_MIDI_Control
-[edit: 06/25/2019]
-***I am depricating v1.0 and moving on to v2.0 now that VCVrack has hit v1.0 (and features MIDI-MAP!!!). I will be switching from multiple Leonardos to a single Leo and multiplexers as it is cheaper and far more extensible (and easier).***
+# VCV_MIDI_Control (VMC)
 
-Arduino code for creating a custom MIDI controller for use with VCVrack (or anything else, really).
+This project is for creating an Arduino-based MIDI controller for use with VCVrack.
 
-This is specifically aimed at the Arduino Leonardo R3 so you can utilize the ATmega32u4 chipset as a USB midi controller. There are other Arduinos that have the 32u4 chipset, but the Leonardo gives you 12 analog inputs (and they are cheap on Ebay).
+VMC makes use of the following hardware:
 
-The Leonardo_x.ino sketches are for my custom controller; MIDIcontroller_12_analog.ino is a basic sketch to get up and running.
+* Arduino Leonardo R3
+* Up to 12 CD74HC4067 multiplexers
+* Up to 192 linear potentiometers (16 / multiplexer)
 
-Have fun.
+I chose the Leonardo R3 as they can be used natively as USB MIDI devices; that being said, any Arduino with the ATmega32u4 chipset can be used.
+
+Additionally, this project makes use of Waspinator's CD74HC4067 library (https://github.com/waspinator/CD74HC4067) to interface with the multiplexers. You could do it all by hand, but why reinvent the wheel?
+
+Go make some music!
