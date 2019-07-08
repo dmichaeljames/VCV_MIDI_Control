@@ -1,7 +1,9 @@
 /*
 
-  DIY MIDI controller using an Arduino Leonardo and multiple CD74HC4067 multiplexers for up to 192 MIDI controls (if you use 12 multiplexers).
+  DIY MIDI controller using an ATmega32U4-based arduino and multiple CD74HC4067 multiplexers for up to 192 MIDI controls (if you use 12 multiplexers).
+  
   Mike James
+  
   06/25/2019 (V2.0)
   06/26/2019 (v2.0.1)
   06/27/2019 (v2.0.2)
