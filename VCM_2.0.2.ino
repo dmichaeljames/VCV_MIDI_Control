@@ -1,6 +1,6 @@
 /*
 
-  DIY MIDI controller using an ATmega32U4-based arduino and multiple CD74HC4067 multiplexers for up to 192 MIDI controls (if you use 12 multiplexers).
+  DIY MIDI controller using an Arduino Leonardo and multiple CD74HC4067 multiplexers for up to 192 MIDI controls (if you use 12 multiplexers).
   Mike James
   06/25/2019 (V2.0)
   06/26/2019 (v2.0.1)
@@ -18,27 +18,32 @@
 // CD74HC4067 - Version: Latest
 #include <CD74HC4067.h>
 
-// S{0,1,2,3} on the multiplexers connected to digital pins {0,1,2,3} on the arduino
-CD74HC4067 mux(0,1,2,3);
+// S{0,1,2,3} on the multiplexers connected to D{10,16,14,15} on the Arduino
+CD74HC4067 mux(10,16,14,15);
 
 // Set number of multiplexers used
 const int muxNum = 1;
 
-// Set the threshold for the change in analog values (to keep it from jittering).
-const int threshold = 4;
+// Set the number of analog inputs used on the multiplexer (really just here for testing purposes; will default to 16 when done)
+const int analogInputs = 5;
+
+// Setting a threshold for analog input to prevent minor fluctuations from changing values
+const int threshold = 8;
 
 // init values for analog reads
-uint8_t oldValue[muxNum][16];
+uint8_t oldValue[muxNum][analogInputs];
 uint8_t newValue = 0;
 
 void setup() {
-  // Add inputs for each multiplexer used
+  // Set the pins to read input 
   pinMode(A0, INPUT);
+  //pinMode(A1, INPUT);
+  //pinMode(A2, INPUT);
 }
 
 void loop() {
   for (int i = 0; i < muxNum; i++) {
-    for (int j = 0; j < 16; j++) {
+    for (int j = 0; j < analogInputs; j++) {
       valueChange(i,j);
     }
   } 
