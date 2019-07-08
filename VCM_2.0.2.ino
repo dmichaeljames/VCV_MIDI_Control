@@ -18,6 +18,7 @@
 #include <pitchToNote.h>
 
 // CD74HC4067 - Version: Latest
+// Waspinator's CD74HC4067 library (https://github.com/waspinator/CD74HC4067) to interface with the multiplexers.
 #include <CD74HC4067.h>
 
 // S{0,1,2,3} on the multiplexers connected to D{10,16,14,15} on the Pro Micro (you can change these to whatever pins you wish)
