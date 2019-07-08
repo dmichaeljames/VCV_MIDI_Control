@@ -18,7 +18,7 @@
 // CD74HC4067 - Version: Latest
 #include <CD74HC4067.h>
 
-// S{0,1,2,3} on the multiplexers connected to D{10,16,14,15} on the Arduino
+// S{0,1,2,3} on the multiplexers connected to D{10,16,14,15} on the Pro Micro (you can change these to whatever pins you wish)
 CD74HC4067 mux(10,16,14,15);
 
 // Set number of multiplexers used
