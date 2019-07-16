@@ -21,8 +21,8 @@
 // Waspinator's CD74HC4067 library (https://github.com/waspinator/CD74HC4067) to interface with the multiplexers.
 #include <CD74HC4067.h>
 
-// S{0,1,2,3} on the multiplexers connected to D{10,16,14,15} on the Pro Micro (you can change these to whatever pins you wish)
-CD74HC4067 mux(10,16,14,15);
+// S{0,1,2,3} on the multiplexers connected to D{15,14,16,10} on the Pro Micro (you can change these to whatever pins you wish)
+CD74HC4067 mux(15,14,16,10);
 
 // Set number of multiplexers used
 const int muxNum = 1;
