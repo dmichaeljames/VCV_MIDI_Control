@@ -1,4 +1,4 @@
-# VCV_MIDI_Control (VMC)
+# VCV MIDI Control (VMC)
 
 This project is for creating an Arduino-based MIDI controller for use with VCVrack.
 
