@@ -12,4 +12,4 @@ Additionally, this project makes use of Waspinator's CD74HC4067 library (https:/
 
 # PCB Layouts
 
-For the hardware side of things, you can do whatever you want, but if you're interested, I've included some printable PCB layouts (and the Fritzing file if you want to edit things). These are for printing, transfering and etching your own boards. I'm sure they can be sent off to have the boards made professionally, but I make ZERO guarantees.
+For the hardware side of things, you can do whatever you want, but if you're interested, I've included some printable PCB layouts (and the Fritzing file if you want to edit things). These are for printing, transferring and etching your own boards. I'm sure they can be sent off to have the boards made professionally, but I make ZERO guarantees.
