@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-118.18908"
-     inkscape:cy="855.61189"
+     inkscape:zoom="1.4"
+     inkscape:cx="243.077"
+     inkscape:cy="886.96387"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,30 @@
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="77.169045,282.72024"
+       orientation="0,1"
+       id="guide2792"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="77.169045,154.22024"
+       orientation="0,1"
+       id="guide2794"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.569048,154.22024"
+       orientation="1,0"
+       id="guide2796"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="77.169045,282.72024"
+       orientation="1,0"
+       id="guide2798"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata6951">
     <rdf:RDF>
@@ -58,7 +81,8 @@
     <g
        id="g5885"
        inkscape:label="grp"
-       transform="matrix(-0.26458333,0,0,0.26458333,77.169047,14.279764)">
+       transform="matrix(-0.26458333,0,0,0.26458333,77.169047,14.279764)"
+       style="opacity:0">
       <rect
          id="rect5843"
          y="0"
@@ -189,13 +213,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-52.768795"
-       y="23.991987"
+       y="25.050322"
        id="text5247-28-4"
        transform="scale(-1,1)"><tspan
          sodipodi:role="line"
          id="tspan5245-4-3"
          x="-52.768795"
-         y="23.991987"
+         y="25.050322"
          style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:7.05555582px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1;stroke-width:0.26458332">VCF</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -329,5 +353,25 @@
            id="tspan7621">D</tspan><tspan
            style="font-size:64.99999762%;baseline-shift:sub"
            id="tspan7623">RIVE</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.8273808,14.27976 H 88.446429"
+       id="path2800"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 77.169043,8.6041655 V 150.15625"
+       id="path2802"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.6934523,142.77976 H 90.903273"
+       id="path2804"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.569048,9.1711297 V 151.66815"
+       id="path2806"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

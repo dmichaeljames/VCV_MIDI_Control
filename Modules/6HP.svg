@@ -22,7 +22,7 @@
    inkscape:export-ydpi="96"><metadata
      id="metadata840"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs838" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,7 +38,7 @@
      showgrid="false"
      inkscape:zoom="0.95875072"
      inkscape:cx="347.64138"
-     inkscape:cy="584.10868"
+     inkscape:cy="355.44673"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -55,7 +55,8 @@
      inkscape:label="6HP 1"><g
    id="g5104"
    inkscape:label="grp"
-   transform="matrix(-1,0,0,1,764.32365,636.85039)"><rect
+   transform="matrix(-1,0,0,1,764.32365,636.85039)"
+   style="opacity:0"><rect
      id="rect5062"
      y="0"
      x="0"
@@ -163,19 +164,21 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
    x="-737.29352"
-   y="673.36426"
+   y="677.36426"
    id="text5247"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245"
      x="-737.29352"
-     y="673.36426"
+     y="677.36426"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:26.66666794px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1">ADSR</tspan></text>
+
 
 <g
    id="g5104-4"
    inkscape:label="grp"
-   transform="matrix(-1,0,0,1,632.04018,636.85039)"><rect
+   transform="matrix(-1,0,0,1,632.04018,636.85039)"
+   style="opacity:0"><rect
      id="rect5062-8"
      y="0"
      x="0"
@@ -283,14 +286,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
    x="-605.01007"
-   y="673.36432"
+   y="677.36432"
    id="text5247-9"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-7"
      x="-605.01007"
-     y="673.36432"
+     y="677.36432"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:26.66666794px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1">ADSR</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -309,6 +313,7 @@
        style="font-size:13.86666584px;baseline-shift:sub;stroke-width:1"
        id="tspan5195-9">TTACK</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -325,6 +330,7 @@
        id="tspan1067-5">S</tspan><tspan
        style="font-size:13.86666584px;baseline-shift:sub;stroke-width:1"
        id="tspan5197-2">USTAIN</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -343,6 +349,7 @@
        style="font-size:13.86666584px;baseline-shift:sub;stroke-width:1"
        id="tspan5199-3">ECAY</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -359,6 +366,7 @@
        id="tspan1071-0">R</tspan><tspan
        style="font-size:13.86666584px;baseline-shift:sub;stroke-width:1"
        id="tspan5201-0">ELEASE</tspan></tspan></text>
+
 
 <path
    style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -395,7 +403,8 @@
    inkscape:connector-curvature="0" /><g
    id="g5104-5"
    inkscape:label="grp"
-   transform="matrix(-1,0,0,1,499.75672,636.85039)"><rect
+   transform="matrix(-1,0,0,1,499.75672,636.85039)"
+   style="opacity:0"><rect
      id="rect5062-3"
      y="0"
      x="0"
@@ -503,14 +512,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
    x="-479.2662"
-   y="673.36426"
+   y="677.36426"
    id="text5247-2"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-5"
      x="-479.2662"
-     y="673.36426"
+     y="677.36426"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:26.66666794px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1">DELAY</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -529,6 +539,7 @@
        style="font-size:64.99999762%;baseline-shift:sub"
        id="tspan5515">IME</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -543,6 +554,7 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333206px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Italic';baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke-width:1">F<tspan
    style="font-size:64.99999762%;baseline-shift:sub;fill:#000000;fill-opacity:1"
    id="tspan5520">DBK</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -559,6 +571,7 @@
    style="font-size:64.99999762%;baseline-shift:sub;fill:#000000;fill-opacity:1"
    id="tspan5522">OLOR</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -573,6 +586,7 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333206px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Italic';baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke-width:1">M<tspan
    style="font-size:64.99999762%;baseline-shift:sub;fill:#020000;fill-opacity:1"
    id="tspan5535">IX</tspan></tspan></text>
+
 
 <path
    style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -609,7 +623,8 @@
    inkscape:connector-curvature="0" /><g
    id="g5104-7"
    inkscape:label="grp"
-   transform="matrix(-1,0,0,1,367.47325,636.85039)"><rect
+   transform="matrix(-1,0,0,1,367.47325,636.85039)"
+   style="opacity:0"><rect
      id="rect5062-7"
      y="0"
      x="0"
@@ -717,14 +732,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
    x="-332.44312"
-   y="673.36426"
+   y="677.36426"
    id="text5247-28"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-4"
      x="-332.44312"
-     y="673.36426"
+     y="677.36426"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:26.66666794px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1">VCA</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -745,6 +761,7 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan5654">1</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -763,6 +780,7 @@
    id="tspan5640">EVEL</tspan> <tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan5656">2</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -783,6 +801,7 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan5658">3</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
@@ -801,6 +820,7 @@
    id="tspan5644">EVEL</tspan> <tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan5660">4</tspan></tspan></text>
+
 
 <path
    style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -837,7 +857,8 @@
    inkscape:connector-curvature="0" /><g
    id="g5885"
    inkscape:label="grp"
-   transform="matrix(-1,0,0,1,764.32365,-1.2704345e-5)"><rect
+   transform="matrix(-1,0,0,1,764.32365,-1.2704345e-5)"
+   style="opacity:0"><rect
      id="rect5843"
      y="0"
      x="0"
@@ -945,14 +966,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
    x="-672.10223"
-   y="36.707607"
+   y="40.707607"
    id="text5247-28-4"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-4-3"
      x="-672.10223"
-     y="36.707607"
+     y="40.707607"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:26.66666794px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1">VCO</tspan></text>
+
 <path
    style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="m 707.06381,256.66019 h -15.75556 30.2387"
@@ -993,6 +1015,86 @@
    style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="m 592.54412,360.65186 v 22.12588"
    id="path6267"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 25.032576,-2.6613183e-5 752.020304,5.8e-11"
+   id="path2824"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 15.64536,485.66924 H 778.09591"
+   id="path2826"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 764.32363,-23.76371 v 547.5876"
+   id="path2828"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 535.28427,519.6518 V -34.193951"
+   id="path2830"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 525.25819,-32.107903 V 518.60877"
+   id="path2832"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 296.21882,-34.193951 V 514.43668"
+   id="path2834"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 279.10452,-21.677662 V 511.30761"
+   id="path2836"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 50.065154,-26.892782 V 504.00644"
+   id="path2838"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M -32.333745,636.66043 H 784.35405"
+   id="path2850"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M -34.419793,1122.3297 H 822.94594"
+   id="path2852"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 764.32363,604.13674 V 1151.7243"
+   id="path2854"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 650.48426,613.52396 V 1141.2941"
+   id="path2856"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 632.04017,616.65303 V 1137.122"
+   id="path2858"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 518.2008,618.73908 V 1145.4662"
+   id="path2860"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 499.75672,620.82512 V 1144.4232"
+   id="path2862"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 385.91735,617.69605 V 1144.4232"
+   id="path2864"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 367.47325,617.69605 V 1145.4662"
+   id="path2866"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 253.63388,616.65303 V 1139.208"
+   id="path2868"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 229.03937,617.69605 V 1141.2941"
+   id="path2870"
+   inkscape:connector-curvature="0" /><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M -3.5040225e-6,613.52396 V 1143.3801"
+   id="path2872"
    inkscape:connector-curvature="0" /></g><g
      id="g842"
      inkscape:groupmode="layer"
@@ -1016,6 +1118,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1032,6 +1135,7 @@
        id="tspan1067">S</tspan><tspan
        style="font-size:64.99999762%;baseline-shift:sub"
        id="tspan5197">USTAIN</tspan></tspan></text>
+
 
 
 
@@ -1054,6 +1158,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1070,6 +1175,7 @@
        id="tspan1071">R</tspan><tspan
        style="font-size:64.99999762%;baseline-shift:sub"
        id="tspan5201">ELEASE</tspan></tspan></text>
+
 
 
 
@@ -1121,6 +1227,7 @@
        id="tspan6376">F</tspan><tspan
        style="font-size:64.99999762%;baseline-shift:sub"
        id="tspan6374">REQ</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1137,6 +1244,7 @@
        id="tspan5193-84">F</tspan><tspan
        style="font-size:64.99999762%;baseline-shift:sub"
        id="tspan6383">INE</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1153,6 +1261,7 @@
    id="tspan6389">FM</tspan> <tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan6391">CV</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1169,6 +1278,7 @@
    id="tspan6385">P.</tspan> <tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan6387">WIDTH</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1187,10 +1297,12 @@
    id="tspan7625">WM</tspan></tspan> <tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan6399">CV</tspan></tspan></text>
+
 <g
    id="g5885-7"
    inkscape:label="grp"
-   transform="matrix(-0.75000003,0,0,0.75000003,393.94366,-4.5007106e-5)"><rect
+   transform="matrix(-0.75000003,0,0,0.75000003,393.94366,-4.5007106e-5)"
+   style="opacity:0"><rect
      id="rect5843-6"
      y="0"
      x="0"
@@ -1298,14 +1410,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30.00000191px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
    x="-324.77759"
-   y="27.530666"
+   y="30.530666"
    id="text5247-28-4-3"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-4-3-7"
      x="-324.77759"
-     y="27.530666"
+     y="30.530666"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:20.00000191px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1;stroke-width:0.75000006">VCO</tspan></text>
+
 <path
    style="fill:none;stroke:#000000;stroke-width:0.75000006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="M 350.99877,192.49511 H 339.1821 361.86113"
@@ -1362,6 +1475,7 @@
        id="tspan6376-0">F</tspan><tspan
        style="font-size:13px;baseline-shift:sub;stroke-width:0.75000006"
        id="tspan6374-9">REQ</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1378,6 +1492,7 @@
        id="tspan5193-84-1">F</tspan><tspan
        style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
        id="tspan6383-5">INE</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1394,6 +1509,7 @@
    id="tspan6389-4">FM</tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6391-9">CV</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1410,6 +1526,7 @@
    id="tspan6385-2">P.</tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6387-4">WIDTH</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1428,10 +1545,12 @@
    id="tspan7629">WM</tspan></tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6399-4">CV</tspan></tspan></text>
+
 <g
    id="g5885-74"
    inkscape:label="grp"
-   transform="matrix(-0.75000003,0,0,0.75000003,209.3284,-4.5007133e-5)"><rect
+   transform="matrix(-0.75000003,0,0,0.75000003,209.3284,-4.5007133e-5)"
+   style="opacity:0"><rect
      id="rect5843-7"
      y="0"
      x="0"
@@ -1539,14 +1658,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30.00000191px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
    x="-140.16234"
-   y="27.530666"
+   y="30.530666"
    id="text5247-28-4-30"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-4-3-0"
      x="-140.16234"
-     y="27.530666"
+     y="30.530666"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:20.00000191px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1;stroke-width:0.75000006">LFO</tspan></text>
+
 <path
    style="fill:none;stroke:#000000;stroke-width:0.75000006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="m 166.38351,192.49511 h -11.81667 22.67903"
@@ -1603,6 +1723,7 @@
        id="tspan6376-5">F</tspan><tspan
        style="font-size:13px;baseline-shift:sub;stroke-width:0.75000006"
        id="tspan6374-1">REQ</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1619,6 +1740,7 @@
        id="tspan5193-84-11">F</tspan><tspan
        style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
        id="tspan6383-8">INE</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1635,6 +1757,7 @@
    id="tspan6389-8">FM</tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6391-5">CV</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1651,6 +1774,7 @@
    id="tspan6385-0">P.</tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6387-9">WIDTH</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1669,10 +1793,12 @@
    id="tspan7633">WM</tspan></tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6399-9">CV</tspan></tspan></text>
+
 <g
    id="g5885-74-0"
    inkscape:label="grp"
-   transform="matrix(-0.75000003,0,0,0.75000003,171.77953,477.49531)"><rect
+   transform="matrix(-0.75000003,0,0,0.75000003,171.77953,477.49531)"
+   style="opacity:0"><rect
      id="rect5843-7-1"
      y="0"
      x="0"
@@ -1780,14 +1906,15 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30.00000191px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
    x="-102.61345"
-   y="505.02603"
+   y="508.02603"
    id="text5247-28-4-30-4"
    transform="scale(-1,1)"><tspan
      sodipodi:role="line"
      id="tspan5245-4-3-0-6"
      x="-102.61345"
-     y="505.02603"
+     y="508.02603"
      style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:20.00000191px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Light Italic';fill:#3782d1;fill-opacity:1;stroke-width:0.75000006">LFO</tspan></text>
+
 <path
    style="fill:none;stroke:#000000;stroke-width:0.75000006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="m 128.83463,669.99047 h -11.81667 22.67903"
@@ -1844,6 +1971,7 @@
        id="tspan6376-5-4">F</tspan><tspan
        style="font-size:13px;baseline-shift:sub;stroke-width:0.75000006"
        id="tspan6374-1-3">REQ</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1860,6 +1988,7 @@
        id="tspan5193-84-11-6">F</tspan><tspan
        style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
        id="tspan6383-8-6">INE</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1876,6 +2005,7 @@
    id="tspan6389-8-5">FM</tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6391-5-8">CV</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1892,6 +2022,7 @@
    id="tspan6385-0-6">P.</tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6387-9-8">WIDTH</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
@@ -1910,4 +2041,5 @@
    id="tspan7637">WM</tspan></tspan> <tspan
    style="font-size:10.39999962px;baseline-shift:sub;stroke-width:0.75000006"
    id="tspan6399-9-0">CV</tspan></tspan></text>
+
 </g></svg>
