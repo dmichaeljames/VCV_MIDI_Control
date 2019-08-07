@@ -1,6 +1,6 @@
 # VCV MIDI Control (VMC)
 
-This project is for creating an Arduino-based MIDI controller for use with VCVrack.
+This project is for creating an Arduino-based MIDI controller for use with VCV Rack.
 
 VMC makes use of the following hardware:
 
