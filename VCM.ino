@@ -17,7 +17,7 @@
 #include <pitchToNote.h>
 #include <CD74HC4067.h>
 
-CD74HC4067 mux(0,1,2,3); // Outputs to D0-3 from Arduino to S0-S3 on the multiplexer(s)
+CD74HC4067 mux(0,1,2,3); // Outputs D0-D3 from Arduino to S0-S3 on the multiplexer(s)
 
 const int analogInputs = 1; // Set to the number of analog inputs you're using on your Arduino
 const int threshold = 0; // Here in case you get erroneus readings (set to 4 or 5 if you do)
@@ -38,8 +38,8 @@ void loop() {
   for (int i = 0; i < analogInputs; i++) {
     for (int pin = 0; pin < 15; pin++) {
       mux.channel(pin);
-      analogRead(i);
-      newValue = analogRead(i) >> 3; 
+      analogRead(i); // trash the first read
+      newValue = analogRead(i) >> 3; // bitshift 1024 -> 128
       delay(10);
   
       // setting the CC value based on the analog input and MUX channel
