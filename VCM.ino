@@ -5,7 +5,7 @@
   06/25/2019 (V2.0)
   06/26/2019 (v2.0.1)
   06/27/2019 (v2.0.2)
-  03/27/2020 (2.1)
+  03/27/2020 (v2.1)
 
 */
 
@@ -17,16 +17,22 @@
 #include <pitchToNote.h>
 #include <CD74HC4067.h>
 
-CD74HC4067 mux(0,1,2,3); // Outputs to S0-S3 on the multiplexers
+CD74HC4067 mux(0,1,2,3); // Outputs to D0-3 from Arduino to S0-S3 on the multiplexer(s)
 
-const int analogInputs = 1;
-const int threshold = 0;
+const int analogInputs = 1; // Set to the number of analog inputs you're using on your Arduino
+const int threshold = 0; // Here in case you get erroneus readings (set to 4 or 5 if you do)
 
 // init values for analog reads
 uint8_t oldValue[analogInputs][16]; 
 uint8_t newValue = 0;
 
-void setup() {}
+void setup() {} 
+/* 
+
+Since the analogs are being used as inputs, there's no need to declare 
+them and Waspinator's code takes care of the digital pins
+
+*/
 
 void loop() {
   for (int i = 0; i < analogInputs; i++) {
