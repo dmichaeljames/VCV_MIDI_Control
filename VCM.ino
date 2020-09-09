@@ -39,7 +39,7 @@ them and Waspinator's code takes care of the digital pins
 
 void loop() {
   for (int i = 0; i < analogInputs; i++) {
-    for (int pin = 0; pin < 15; pin++) {
+    for (int pin = 0; pin < 16; pin++) {
       mux.channel(pin);
       analogRead(i); // trash the first read
       newValue = analogRead(i) >> 3; // bitshift 1024 -> 128
